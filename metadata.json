@@ -1,0 +1,7 @@
+{
+  "name": "SPN-IV Academic Studio",
+  "description": "A high-end academic dashboard and AI study assistant for Doon University Spanish Semester IV students, featuring timetable tracking, syllabus integration, note-taking, and Gemini-powered research grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
